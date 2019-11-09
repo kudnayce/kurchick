@@ -1,0 +1,1699 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Разработка и создание интернет магазина автозапчастей от 3900 руб в месяц</title>
+	<meta name="keywords" lang="ru" content="" />
+	<meta name="description" content="Ведущие интернет-магазины запчастей на платформе ABCP. Весь необходимый функционал для продажи автозапчастей. Бесплатный тест-драйв на 30 дней!" />
+	<meta name="Document-state" content="Dynamic" />
+	<meta name="Resource-type" content="document" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta property="og:url" content="https://www.abcp.ru" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Разработка и создание интернет магазина автозапчастей от 3900 руб в месяц" />
+<meta property="og:description" content="Ведущие интернет-магазины запчастей на платформе ABCP. Весь необходимый функционал для продажи автозапчастей. Бесплатный тест-драйв на 30 дней!" />
+<meta property="og:image" content="" />
+
+	<meta name="google-site-verification" content="-c14x5QVXErSBQi0gKh0muKoONTTgU5cstkUPcbkHuU" />
+<meta name="yandex-verification" content="79e8b1aecd555780" />
+<meta name="yandex-verification" content="67a82351451900b5" />
+<meta name="google-site-verification" content="LKVhDmDCex36zIxG74plBeeclgn7nBJsvoq8UJ1UzvI" />
+<meta name="yandex-verification" content="a80bcec26e83e87c" />
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(15779137, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/15779137" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-57MHQ9T');</script>
+<!-- End Google Tag Manager -->
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-136123411-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-136123411-1', {'custom_map': {'dimension1': 'clientId'} });
+  
+</script>
+	<link href="/favicon.ico?time=1468801657" rel="shortcut icon">
+	<link href="//astatic.nodacdn.net/css/pt.sans.css?2" rel="stylesheet" type="text/css">
+	<link href="//astatic.nodacdn.net/css/roboto.css?2" rel="stylesheet" type="text/css">
+	<link href="/static.files/css/json-prettify.css" type="text/css" rel="stylesheet" />
+	<!--Капча для регистрации-->
+	<script src="https://www.google.com/recaptcha/api.js?hl=ru" async></script>
+	<link rel="canonical" href="https://www.abcp.ru" />
+
+
+<script src="//astatic.nodacdn.net/common.jscripts/jquery/jquery-1.7.min.js"></script>
+<script src="//astatic.nodacdn.net/common.jscripts/jquery/jquery.script.load.polyfill.js?1"></script>
+<script src="//astatic.nodacdn.net/common.jscripts/jquery/ui/jquery-ui-1.8.16.min.js"></script>
+<link rel="stylesheet" href="//astatic.nodacdn.net/common.jscripts/jquery/ui/custom-theme/jquery-ui-1.9.2.custom.css" />
+<script src="//astatic.nodacdn.net/common.jscripts/jquery/ui/jquery-ui-i18n.min.js?2"></script>
+<script src="//astatic.nodacdn.net/common.jscripts/jquery/jquery.jgrowl_minimized.js" charset="UTF-8"></script>
+<link rel="stylesheet" href="//astatic.nodacdn.net/common.jscripts/jquery/jquery.jgrowl.css" />
+<script src="//astatic.nodacdn.net/common.jscripts/jquery/jquery.cookie.js"></script>
+<script src="//astatic.nodacdn.net/common.jscripts/jquery/jquery.fancybox-2.1.7.min.js"></script>
+<link rel="stylesheet" href="//static-files.nodacdn.net/js_libs/jquery/fb2/jquery.fancybox.css" />
+<script src="//static-files.nodacdn.net/js_libs/jquery/fb2/jquery.mousewheel-3.0.2.pack.js"></script>
+<script src="//astatic.nodacdn.net/common.jscripts/jquery/jquery.maskedinput-1.4.1.js"></script>
+<script src="//astatic.nodacdn.net/common.jscripts/jquery.inputmask.bundle.js?abcp-2694"></script>
+<script src="//astatic.nodacdn.net/common.jscripts/multimaskOptions.js?abcp-2695"></script>
+<link rel="stylesheet" href="//astatic.nodacdn.net/common.jscripts/jquery/ui/jquery.multiselect.css" />
+<script src="//astatic.nodacdn.net/common.jscripts/jquery/ui/jquery.multiselect.js"></script>
+
+<script src="//astatic.nodacdn.net/common.jscripts/cssFramework.js"></script>
+
+<link rel="stylesheet" href="//astatic.nodacdn.net/css/filters-call.order.css?1" />
+<link rel="stylesheet" href="//astatic.nodacdn.net/css/virtual.corrections.css?5" />
+<link rel="stylesheet" href="//astatic.nodacdn.net/css/global.tables.css?10" />
+<link rel="stylesheet" href="//astatic.nodacdn.net/css/carbase.css" />
+<link rel="stylesheet" href="//astatic.nodacdn.net/css/cssFramework.css?12" />
+<link rel="stylesheet" href="//astatic.nodacdn.net/css/adaptive.media.css?15" />
+<link rel="stylesheet" href="//astatic.nodacdn.net/css/goods.catalog.css?5" />
+<script>
+	$(function() {
+		(function () {
+			// Синхронизируем значения в виджете и старого input
+			if ($.ui.wGoodsQuantityBuy !== undefined) {
+				$.ui.wGoodsQuantityBuy.prototype.inputChangeCallbackTrash = function () {
+					if ($(this).closest('form').length) {
+						$(this).closest('td').find('.quantityInputFake').val($(this).val());
+					}
+				};
+			}
+		})();
+	})
+</script>
+
+<script>
+	var SiteLocale = '';
+	var OriginalSiteLocale = 'ru_RU';
+</script>
+	<!-- Include Required Prerequisites -->
+<script src="//astatic.nodacdn.net/common.jscripts/daterangepicker/moment-with-locales.min.js"></script>
+<!-- Include Date Range Picker -->
+<script src="//astatic.nodacdn.net/common.jscripts/daterangepicker/daterangepicker.min.js"></script>
+<link rel="stylesheet" type="text/css"
+      href="//astatic.nodacdn.net/common.jscripts/daterangepicker/daterangepicker.min.css"/>
+<script>
+    var langDateRange = {
+        specificDate: 'Один день',
+        allDatesBefore: 'Все даты до',
+        allDatesAfter: 'Все даты после',
+        dateRange: 'Выбрать дни',
+        rangeStartTitle: 'С:',
+        rangeEndTitle: 'По:',
+        nextLinkText: 'След.',
+        prevLinkText: 'Пред.'
+    };
+
+    moment.locale('ru');
+    /* */
+    var localizedDateTimePickerTexts = {
+        today: 'Сегодня',
+        /*5 дней назад*/
+        fiveAndMoreDaysAgo: '5 дней назад и более',
+        /*7 дней назад*/
+        sevenAndMoreDaysAgo: '7 дней назад и более',
+        /*За последние 7 дней*/
+        last7days: 'За последние 7 дней',
+        /*За последние 10 дней*/
+        last10days: 'За последние 10 дней',
+        /*10 дней назад и более*/
+        tenAndMoreDaysAgo: '10 дней назад и более',
+        /*За этот месяц*/
+        thisMonth: 'За этот месяц',
+        /*За последние 30 дней*/
+        lastThirtyDays: 'За последние 30 дней',
+        /*Предыдущий месяц*/
+        previousMonth: 'Предыдущий месяц',
+        /*За последние 12 месяцев*/
+        thisLastYear: 'За последние 12 месяцев',
+        /*За этот год*/
+        thisYear: 'За этот год'
+    };
+    function getDateTimePickerAliasByLabel(label) {
+        for (var alias in localizedDateTimePickerTexts) {
+            if (localizedDateTimePickerTexts[alias] == label) {
+                return alias;
+            }
+        }
+        return label;
+    }
+    function getDateTimePickerLabelByAlias(alias) {
+        if(localizedDateTimePickerTexts[alias]) {
+            return localizedDateTimePickerTexts[alias];
+        }
+        return false;
+    }
+    var dateRangePickerRanges = {
+        /* Сегодня*/
+        'Сегодня': [
+            moment().format('DD.MM.YYYY'),
+            moment().format('DD.MM.YYYY')
+        ],
+        /* Неделя назад*/
+        'За последние 7 дней': [
+            moment().subtract(1, 'week').format('DD.MM.YYYY'),
+            moment().format('DD.MM.YYYY')
+        ],
+        /* Этот месяц*/
+        'За этот месяц': [
+            moment().startOf('month').format('DD.MM.YYYY'),
+            moment().format('DD.MM.YYYY')
+        ],
+        /* За последние 30 дней*/
+        'За последние 30 дней': [
+            moment().subtract(1, 'month').format('DD.MM.YYYY'),
+            moment().format('DD.MM.YYYY')
+        ],
+        /* Этот год*/
+        'За этот год': [
+            moment().startOf('year').format('DD.MM.YYYY'),
+            moment().format('DD.MM.YYYY')
+        ],
+        /* Предыдущий месяц*/
+        'Предыдущий месяц': [
+            moment().subtract(1, 'month').format('DD.MM.YYYY'),
+            moment().format('DD.MM.YYYY')
+        ],
+        /*Прошлый год*/
+        'За последние 12 месяцев': [
+            moment().subtract(1, 'year').format('DD.MM.YYYY'),
+            moment().format('DD.MM.YYYY')
+        ]
+    };
+    var dateRangePickerLocale = {
+        format: "DD.MM.YYYY",
+        separator: " - ",
+        customRangeLabel: 'Выбрать дни',
+        fromLabel: "С:",
+        toLabel: "По:"
+    };
+    var dateRangePickerOptions = {
+        ranges: dateRangePickerRanges,
+        locale: dateRangePickerLocale,
+        autoApply: true
+    };
+
+</script>
+<script>
+	var popupMessageCloseAllNotifications = '[ Закрыть все уведомления ]';
+	var popupMessageAddItemToBasket = 'Товар добавлен в корзину';
+	var alertMessageAddItemToBasket = 'Такой товар уже есть в корзине в количестве xx штук. Добавить?';
+	var alertMessageAddItemToMultiBasket = 'Такой товар уже есть XX. Добавить по YY шт?';
+	var alertMessageAddItemToMultiBasketCnt = 'в корзине XX в кол-ве YY шт';
+	var alertMessageAddItemToMultiBasketSingle = 'Такой товар уже есть XX. Добавить YY шт?';
+	var addToCartAuthError = '<strong>Для добавления товаров в корзину необходимо авторизоваться<\/strong>';
+	var addToCartDataError = '<strong>Ошибка при добавлении в корзину.<br />Попробуйте перезагрузить страницу с результатами поиска<\/strong>';
+	var addToCartLimitError = '<strong>Для дальнейшего добавления новых позиций в корзину необходимо авторизоваться.<\/strong>';
+	var addToCartCookieLimitError = '<strong>Для добавления этого товара в корзину необходимо авторизоваться.<\/strong>';
+	var addToCartAlreadyInCartError = '<strong>Обработка данного товара имеет ограничения. Необходимо удалить товар из корзины, после чего выполнить его повторный поиск и добавить в корзину с нужным количеством.<br /><\/strong>';
+	var addToCartError = '<strong>Ошибка при добавлении в корзину<\/strong>';
+	var answerOptionPositive = 'Да';
+	var answerOptionNegative = 'Нет';
+	var chooseVendorDefaultOption = 'Выберите марку';
+	var carbaseApplBlockCarManufacturer = 'Марка';
+	var chooseModelDefaultOption = 'Выберите модель';
+	var carbaseApplBlockCarModel = 'Модель';
+	var chooseYearDefaultOption = 'Выберите год';
+	var carbaseApplBlockCarYear = 'Год выпуска';
+	var chooseModificationDefaultOption = 'Выберите модификацию';
+	var carbaseApplBlockCarModification = 'Модификация';
+	var packingAddToTrashMessage = 'Можно заказать только партиями по {PACKING_VALUES} и т.д. штук.';
+	var packingTrashOrderMessage = 'Деталь {BRAND_NUMBER} можно заказать только партиями по {PACKING_VALUES} и т.д. штук.';
+	var confirmCartClear = 'Вы действительно хотите очистить корзину?';
+	var warningCaption = 'Внимание!';
+	var clientId = null;
+	var clientName = '';
+	var clientEmail = '';
+	var clientMobile = '';
+	var resellerId = 92056;
+	var isVirtualSite = 1;
+</script>
+
+<script src="//static-files.nodacdn.net/js_libs/js_misc.js?3182"></script>
+
+	<script src="//astatic.nodacdn.net/common.jscripts/jquery/jquery.browser.min.js"></script>
+	<script>
+		var initSearchFormOnExtendedAutocomplete = true;
+			</script>
+
+	<link href="/static.files/default/desktop/ru_RU/css/style.css?abcp-2931" rel="stylesheet" />
+<script src="/static.files/default/desktop/ru_RU/js/script.js?abcp-2931"></script>
+	<!-- Client Request -->
+	<script src="//astatic.nodacdn.net/common.jscripts/jquery/jquery.validate.min.js?1"></script>
+	<script src="//astatic.nodacdn.net/common.jscripts/jquery/jquery.tools.min.js"></script>
+	<script src="//astatic.nodacdn.net/common.jscripts/jquery.qtip.2/jquery.qtip.js?2"></script>
+	<script src="//astatic.nodacdn.net/common.jscripts/analytics.to.crm.js?1"></script>
+</head>
+<body class="mainPage">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-57MHQ9T"
+					  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	
+	
+	<script>
+    (function($) {
+        $(function () {
+            var $cookieNotify = $('.wCookieNotify');
+
+            $cookieNotify.find('a').click(function (e) {
+                e.stopPropagation();
+            });
+
+            $cookieNotify.click(function () {
+                $.cookie('cookieNotify','1', {
+                    path: '/',
+                    expires: 7300,
+                });
+
+                $(this).slideUp();
+            })
+        });
+    }(jQuery));
+</script>
+
+	<aside class="mainAsideMobile">
+		<div class="headPhones headPhonesMobile"> 
+        <div class=" headPhonesMobile__contacts">
+	     <a href="tel:+7(495)668-13-74"><i class="fr-icon2-phone"></i>+7 (495) 668-13-74</a>
+             <a href="/contacts"><i class="fr-icon2-location"></i>Контактная информация</a>
+        </div>
+	<div class="headMainPhone__subTitle">
+		<a href="https://cp.abcp.ru" target="_blank" title="Войти"><i class="fr-icon2-login-1"></i></a>
+	</div>
+</div>
+
+<div class="wMenu wMenuMobile">
+	<ul id="my-menu-mobile" class="horizontal">
+		<li class="menuItem">
+			<a href="/" class="menuItemLink">О продукте</a>
+		</li>
+		<li class="menuItem">
+			<a href="/rates" class="menuItemLink">Тарифы</a>
+		</li>
+		<li class="menuItem">
+			<a href="/reviews" class="menuItemLink">Отзывы</a>
+		</li>
+		<li class="menuItem">
+			<a href="/clients" class="menuItemLink">Клиенты</a>
+		</li>
+		<li class="menuItem">
+			<a href="/integrations" class="menuItemLink">Интеграции</a>
+		</li>
+		<li class="menuItem">
+			<a href="/move-to-abcp" class="menuItemLink">Переезд на ABCP</a>
+		</li>
+		<li class="menuItem">
+			<a href="/training" class="menuItemLink">Обучение онлайн</a>
+		</li>
+		<li class="menuItem">
+			<a href="/start?tariffId=49" class="menuItemLink">Тест-драйв на 30 дней</a>
+		</li>
+	</ul>
+</div>
+				<div class="mainNav__submenu mainNav__submenuMobile">
+						<ul class="mainNav__submenu__list">
+				<li class="mainNav__submenu__list__item"><a href="/news">Новости</a></li>
+				<li class="mainNav__submenu__list__item"><a href="/search-function">Проценка</a></li>
+				<li class="mainNav__submenu__list__item"><a href="/seo-number-two">SЕО-Продвижение</a></li>
+				<li class="mainNav__submenu__list__item"><a href="/suppliers">Рейтинг поставщиков</a></li>
+				<li class="mainNav__submenu__list__item"><a href="/tecdoc">Каталог Текдок для сайта</a></li>
+				<li class="mainNav__submenu__list__item"><a href="https://4mycar.ru/" target="_blank">Сервис поиска автозапчастей</a></li>
+				<li class="mainNav__submenu__list__item"><a href="https://vinqu.com/" target="_blank">Биржа обработки VIN-запросов</a></li>
+                                <li class="mainNav__submenu__list__item"><a href="/crossbase">База кроссов, аналогов и замен</a></li>
+                                <li class="mainNav__submenu__list__item"><a href="/carservice">Онлайн-запись для автосервисов</a></li>
+			</ul>
+		</div>
+	</aside>
+	<div class="topBar">
+		<div class="topBarIn">
+			<a href="#" class="mainNav__button subMenuToggler openPanel">
+				<span></span>
+			</a>
+			<div class="logo">
+                <a href="/" title="ABCP - Платформа для интернет-магазина автозапчастей"><img src="//f.nodacdn.net/312394" alt="ABCP"  width="87" height="28"/></a>
+			</div>
+		</div>
+	</div>
+	<div class="siteWrapper bodyBlur">
+		<header class="head">
+			<div class="layout">
+				<div class="logo">
+					<a href="/" title="ABCP - Платформа для интернет-магазина автозапчастей"><img src="//f.nodacdn.net/268621" alt="ABCP"/></a>
+				</div>
+				<div class="headMainPhone">
+					<a href="tel:+7(495)668-13-74">+7 (495) 668-13-74</a>
+					<div class="headMainPhone__subTitle"><a href="/contacts" class="headMainPhone__contacts">Контактная информация</a></div>
+				</div>
+				<a href="https://cp.abcp.ru" target="_blank" class="fr-hidden-xs darkBlueOutlineButton" nofollow title="Контрольная панель управления ABCP">Войти</a>
+			</div>
+		</header>
+		<nav class="mainNav">
+			<div class="layout">
+				<div class="wMenu">
+	<ul id="my-menu" class="mainMenu">
+					<li class="menuItem act">
+									<a href="#" class="mainNav__button menuItemLink subMenuToggler">
+						<span></span>
+						Все продукты
+					</a>
+								</li>
+					<li class="menuItem">
+									<a href="/rates"
+					    					   class="menuItemLink">
+						Тарифы
+					</a>
+							</li>
+					<li class="menuItem">
+									<a href="/integrations"
+					    					   class="menuItemLink">
+						Интеграции
+					</a>
+							</li>
+					<li class="menuItem">
+									<a href="/reviews"
+					    					   class="menuItemLink">
+						Отзывы
+					</a>
+							</li>
+					<li class="menuItem">
+									<a href="/clients"
+					    					   class="menuItemLink">
+						Клиенты
+					</a>
+							</li>
+					<li class="menuItem">
+									<a href="/suppliers"
+					    					   class="menuItemLink">
+						Поставщики
+					</a>
+							</li>
+					<li class="menuItem">
+									<a href="/move-to-abcp"
+					    					   class="menuItemLink">
+						Переезд на ABCP
+					</a>
+							</li>
+			</ul>
+</div>
+				<div class="mainNav__submenu">
+					<div class="fr-flex-row">
+						<div class="fr-flex-col-sm-8">
+							<div class="mainNav__submenu__heading">Платформа для интернет-магазина автозапчастей</div>
+							<div class="fr-flex-row">
+								<div class="fr-flex-col-sm-6">
+									<ul class="mainNav__submenu__list">
+										<li class="mainNav__submenu__list__item"><a href="/">О продукте</a></li>
+										<li class="mainNav__submenu__list__item"><a href="/rates">Тарифы</a></li>
+										<li class="mainNav__submenu__list__item"><a href="/search-function">Проценка</a></li>
+										<li class="mainNav__submenu__list__item"><a href="/integrations">Интеграции</a></li>
+										<li class="mainNav__submenu__list__item"><a href="/docs" target="_blank">Документация</a></li>
+										<li class="mainNav__submenu__list__item"><a href="/training">Обучение онлайн</a></li>
+										<li class="mainNav__submenu__list__item mainNav__submenu__list__item_pointed"><a href="/start?tariffId=49">Получить тест-драйв на 30 дней</a></li>
+									</ul>
+								</div>
+								<div class="fr-flex-col-sm-6">
+									<ul class="mainNav__submenu__list">
+										<li class="mainNav__submenu__list__item"><a href="/reviews">Отзывы</a></li>
+										<li class="mainNav__submenu__list__item"><a href="/news">Новости</a></li>
+										<li class="mainNav__submenu__list__item"><a href="/clients">Клиенты</a></li>
+										<li class="mainNav__submenu__list__item"><a href="/stat">Статистика</a></li>
+										<li class="mainNav__submenu__list__item"><a href="/move-to-abcp">Переезд на ABCP</a></li>
+										<li class="mainNav__submenu__list__item"><a href="/seo-number-two">SЕО-Продвижение</a></li>
+										<li class="mainNav__submenu__list__item"><a href="/suppliers">Рейтинг поставщиков</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="fr-flex-col-sm-4">
+							<div class="mainNav__submenu__heading">Другие продукты компании</div>
+							<ul class="mainNav__submenu__list">
+								<li class="mainNav__submenu__list__item"><a href="/tecdoc">Каталог Текдок для сайта</a></li>
+								<li class="mainNav__submenu__list__item"><a href="/crossbase">База кроссов, аналогов и замен</a></li>
+								<li class="mainNav__submenu__list__item"><a href="/carservice">Модуль онлайн-записи для автосервиса</a></li>
+							</ul>
+							<ul class="mainNav__submenu__list">
+								<li class="mainNav__submenu__list__item"><a href="https://vinqu.com/" target="_blank">Vinqu.com &mdash; биржа обработки VIN-запросов</a></li>
+								<li class="mainNav__submenu__list__item"><a href="https://4mycar.ru/" target="_blank">4MyCar.ru &mdash; агрегатор магазинов автозапчастей</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+											</div>
+		</nav>
+		<div class="baseContent">
+						<div class="contentBlock">
+								<script src="/static.files/js/stat.counter.js?2"></script>
+<div class="wPageMain">
+    <div class="headJumbotron">
+        <div class="mainTitle">
+            <div class="mainPicture">
+                <img src="/static.files/default/desktop/ru_RU/widgets/page.main/images/macbook-abcp.png" alt="">
+            </div>
+            <div class="mainText">
+                <h1 class="mainTitleText">
+		            Платформа №1
+                    <div>для интернет-магазина автозапчастей</div>
+	            </h1>
+                <p>Большое количество функций и настроек, интеграция со всеми поставщиками, встроенные каталоги и интеграция с внешними, удобная работа с прайс-листами и ценами, отчёты по всем действиям ваших покупателей, seo-готовность и качественная техническая поддержка!<br> 
+<a href="/clients">Тысячи компаний</a> уже работают на платформе.<br>
+Присоединяйтесь! Начните с бесплатного тест-драйва на 30 дней!</p>
+                <div class="mainTextButtons">
+                    <a href="/start?tariffId=49" onclick="ym(15779137, 'reachGoal', 'click_test_main'); return true;"  class="blueButton">ТЕСТ-ДРАЙВ НА 30 ДНЕЙ</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="contentMainBlock">
+        <div class="fr-flex-container-fluid layout">
+            <div class="fr-flex-row">
+                <div class="fr-flex-col-sm-6">
+                    <div class="statisticCont">
+                        <img src="/static.files/default/desktop/ru_RU/widgets/page.main/images/analysis.svg" alt="" class="supportIco" width="80">
+                        <div class="statisticCont__title fr-flex fr-flex-column fr-justify-content-between">
+                            Статистика <br>за ноябрь
+                            <div class="viewAllStat">
+                                <a href="/stat">Посмотреть статистику с&nbsp;2008 года</a>
+                            </div>
+                        </div>
+                        <div class="statistic">
+                            <div class="statisticColumn">
+                                <div>
+                                    <div class="statisticNum countQuerystat"></div>
+                                    поисковых запросов
+                                </div>
+                            </div>
+                            <div class="statisticColumn">
+                                <div class="statisticNum ordersNum countOrders"></div>
+                                продано автозапчастей
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="fr-flex-col-sm-6">
+                    <div class="training">
+                        <img src="/static.files/default/desktop/ru_RU/widgets/page.main/images/customer-service2.svg" alt="" class="supportIco" width="80">
+                        <div class="statisticCont__title">
+                            Бесплатное обучение онлайн
+                            <div class="training__text">каждую среду в&nbsp;11:00</div>
+                            <a href="/training" class="grayButton">узнать подробнее</a>
+                        </div>
+                    </div>
+                </div>
+
+                                                                                                                            </div>
+        </div>
+    </div>
+	<div class="mainFeaturesBlock">
+		<div class="contentMainBlock contentMainBlock_blue mainFeatures">
+			<div class="layout fr-flex-container-fluid">
+				<div class="fr-flex-row fr-justify-content-between fr-align-items-center">
+					<div class="fr-flex-col-md-6">
+						<div class="mainFeatures__info"><h2><span>Профессиональный</span> поиск запчастей</h2>
+                    <p>Высокотехнологичный алгоритм поиска автозапчастей в сочетании с актуальной базой знаний о товарах, включая их аналоги и замены, и защитой от «мусорных» данных обеспечивает комфортные условия использования Платформы, позволяя сосредоточиться на покупках и продажах. </p>
+                    <p>Оперативный поиск с подбором аналогов по собственному остатку и наличию у партнеров, по загруженным прайс-листам и онлайн поставщикам. Алгоритмы преобразовывают огромный список найденных товаров в удобный и понятный для вашего покупателя.</p>
+                    <p>Широкий набор опций позволяет настраивать поисковую выдачу под ваши потребности и пожелания.</p></div>
+					</div>
+					<div class="fr-flex-col-md-6 fr-flex-order-first-xs">
+						<img src="//f.nodacdn.net/308960" alt="">
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="contentMainBlock contentMainBlock_blue mainFeatures">
+			<div class="layout fr-flex-container-fluid">
+				<div class="fr-flex-row fr-justify-content-between fr-align-items-center">
+					<div class="fr-flex-col-md-6">
+						<img src="//f.nodacdn.net/308961" alt="">
+					</div>
+					<div class="fr-flex-col-md-6">
+						<div class="mainFeatures__info"><h2><span>Автоматическая </span>загрузка прайс-листов</h2>
+                    <p>Непрерывные апдейты прайс-листов сводят вас с&nbsp;ума? Каждый поставщик присылает прайс в&nbsp;своем формате? Формат постоянно меняется?</p>
+                    <p>Совершенно новый высокоинтеллектуальный интерфейс работы с онлайн и оффлайн поставщиками позволяет заливать прайсы значительно быстрее и легко настраивать источники автоматического обновления (Email, FTP, HTTP/HTTPS, API). Модуль сам распознает формат и структуру прайс-листа. </p>
+                    <p>Доступны поиск и фильтрация, в том числе с использованием #hashtags.</p>
+                    <p>Отслеживайте процесс обработки прайсов в реальном времени. Настройте автоматическое обновление и сосредоточьтесь на вашем деле.
+                    </p></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="contentMainBlock contentMainBlock_blue mainFeatures">
+			<div class="layout fr-flex-container-fluid">
+				<div class="fr-flex-row fr-justify-content-between fr-align-items-center">
+					<div class="fr-flex-col-md-6">
+						<div class="mainFeatures__info"><h2><span>Гибкая </span>настройка цен <span>(скидки, наценки, валюты)</span></h2>
+                    <p>Нужны особые условия для разных групп клиентов? Модуль ценообразования поможет вам в&nbsp;этом.</p>
+                    <p>Вы&nbsp;можете настроить наценки и&nbsp;скидки в&nbsp;зависимости от&nbsp;типа клиента, поставщика, бренда внутри поставщика, а&nbsp;также выбрать наценку, зависящую от&nbsp;конечной стоимости товара. Для дилерских прайсов можно настроить скидки для соответствующих групп товаров.</p>
+                    <p>Не хотите или не можете заниматься ценообразованием всего объема товаров? Используйте автоматический умный алгоритм формирования цен и получите преимущество перед вашими конкурентами!</p></div>
+					</div>
+					<div class="fr-flex-col-md-6 fr-flex-order-first-xs">
+						<img src="//f.nodacdn.net/308962" alt="">
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="contentMainBlock contentMainBlock_blue mainFeatures">
+			<div class="layout fr-flex-container-fluid">
+				<div class="fr-flex-row fr-justify-content-between fr-align-items-center">
+					<div class="fr-flex-col-md-6">
+						<img src="//f.nodacdn.net/308963" alt="">
+					</div>
+					<div class="fr-flex-col-md-6">
+						<div class="mainFeatures__info"><h2><a href="/cat_for_site"><span>Электронные</span>Каталоги автозапчастей</a></h2>
+                    <p>Профессиональные каталоги, представленные на нашей Платформе, объединяют в себе удобство и информативность. Каталоги ABCP основаны на самом полном в России и СНГ справочнике автозапчастей.</p>
+                    <p>Во все тарифы платформы уже включены каталоги моторных и трансмиссионных масел, авто/мото/грузовых шин, дисков, аккумуляторов, ламп, поликлиновых ремней, охлаждающих жидкостей и жидкостей стеклоомывателя. Список каталогов постоянно расширяется. Мы работаем над их наполнением, вы — просто используете.</p>
+                    <p>Использование каталогов ABCP обеспечивает наличие постоянно обновляемой информации о запчастях и их заменах.</p></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="contentMainBlock contentMainBlock_blue mainFeatures">
+			<div class="layout fr-flex-container-fluid">
+				<div class="fr-flex-row fr-justify-content-between fr-align-items-center">
+                <div class="fr-flex-col-md-6">
+                <div class="mainFeatures__info">
+                    <h2><span>Готовые шаблоны и </span>адаптивный дизайн</h2>
+                    <p>Адаптивный шаблон интернет-магазина — это двойное преимущество: мгновенный старт и надежные технологии.</p>
+                    <p>Быстрый запуск и смена шаблона, легкая интеграция фирменного стиля, проверенный интерфейс сайта, адаптированный для работы на ПК и мобильных устройствах, широкие возможности, удобство и простота использования для сотрудников и клиентов.</p>
+                    <p>Выбирайте подходящий вам дизайн за готовых шаблонов. Легко и быстро настраивайте под свой фирменный стиль. <br>Настройка и смена адаптивного дизайна вашего интернет-магазина на Платформе ABCP займет примерно 30 минут.</p>
+                   </div>
+                </div>
+                <div class="fr-flex-col-md-6 fr-flex-order-first-xs">
+                    <img src="//f.nodacdn.net/308964" alt="">
+                </div>
+            </div>
+			</div>
+		</div>
+	</div>
+    <div class="contentMainBlock">
+        <div class="layout fr-flex-container-fluid">
+            <div class="fr-flex-row fr-justify-content-between mainTopFeatures_cols">
+                <div class="fr-flex-col-md-3">
+                    <div class="integrations__tile">
+                        <div class="integrations__tile__image"><img src="//f.nodacdn.net/279619" alt="" width="198"  style="max-height: 42px;"></div>
+                        <div class="integrations__tile__text">Выбор и покупка товаров из проверенных интернет-магазинов</div>
+                    </div>
+                </div>
+                <div class="fr-flex-col-md-3">
+                    <div class="integrations__tile">
+                        <div class="integrations__tile__image"><img src="//f.nodacdn.net/279297" alt="" width="198" style="max-height: 44px;"></div>
+                        <div class="integrations__tile__text">Оригинальные онлайн-каталоги запчастей для интернет-магазинов</div>
+                    </div>
+                </div>
+                <div class="fr-flex-col-md-3">
+                    <div class="integrations__tile">
+                        <div class="integrations__tile__image"><img src="//f.nodacdn.net/279276" alt="" width="198"></div>
+                        <div class="integrations__tile__text">Интернет-эквайринг в Сбербанке и других популярных банках и сервисах</div>
+                    </div>
+                </div>
+                <div class="fr-flex-col-md-3">
+                    <div class="integrations__tile">
+                        <div class="integrations__tile__image"><img src="//f.nodacdn.net/279590" alt="" width="142"></div>
+                        <div class="integrations__tile__text">Готовый модуль для интеграции с различными версиями 1С</div>
+                    </div>
+                </div>
+            </div>
+            <div class="fr-text-center">
+                <a class="grayButton partnersButton" href="/integrations">
+                    Все интеграции
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="contentMainBlock contentMainBlock__reviews">
+        <div class="layout fr-flex-container-fluid">
+            <div class="fr-flex-row">
+                <div class="fr-flex-col-md-6">
+                    <div class="reviewsItem">
+                        <a href="http://atosparts.ru" class="reviewsItemLink" target="_blank"><img src="//f.nodacdn.net/290112" alt="" style="max-height: 80px;"></a>
+                        <p>Коллеги, даже не&nbsp;стоит сомневаться в&nbsp;выборе. <br>ABCP — это, пожалуй, лучшее, что есть из&nbsp;предложений для создания в&nbsp;интернете страницы и&nbsp;магазина автозапчастей.</p>
+                        <i class="fr-icon2-quote-right"></i>
+                    </div>
+                </div>
+                <div class="fr-flex-col-md-6">
+                    <div class="reviewsItem">
+                        <div class="fr-text-center">
+                            <a href="http://shop.autoline.am/ru" class="reviewsItemLink" target="_blank"><img src="/getfile.php?id_file=266424" style="max-height: 80px;"></a>
+                        </div>
+                        <p>ABCP has a very professional team. They are open to discuss and fulfill customer’s requirements. They continuously improve their service. We are happy with their customer service. Highly recommended!</p>
+                        <i class="fr-icon2-quote-right"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="fr-text-center">
+                <a class="grayButton partnersButton" href="/reviews">Больше отзывов</a>
+            </div>
+        </div>
+    </div>
+    <div class="layout">
+        
+    </div>
+</div>
+<script>
+$(function() {
+    CounterStat.updateValueCount();
+});
+</script>
+			</div>
+		</div>
+		<footer class="footer">
+			<div class="layout">
+				<div class="mainNav__submenu mainNav__submenuFooter">
+					<div class="fr-flex-row">
+						<div class="fr-flex-col-sm-8">
+							<div class="mainNav__submenu__heading">Платформа для интернет-магазина автозапчастей</div>
+							<div class="fr-flex-row">
+								<div class="fr-flex-col-sm-6">
+									<ul class="mainNav__submenu__list">
+										<li class="mainNav__submenu__list__item"><a href="/">О продукте</a></li>
+										<li class="mainNav__submenu__list__item"><a href="/rates">Тарифы</a></li>
+										<li class="mainNav__submenu__list__item"><a href="/search-function">Проценка</a></li>
+										<li class="mainNav__submenu__list__item"><a href="/integrations">Интеграции</a></li>
+										<li class="mainNav__submenu__list__item"><a href="/docs" target="_blank">Документация</a></li>
+										<li class="mainNav__submenu__list__item"><a href="/training">Обучение онлайн</a></li>
+										<li class="mainNav__submenu__list__item mainNav__submenu__list__item_pointed"><a href="/start?tariffId=49">Получить тест-драйв на 30 дней</a></li>
+									</ul>
+								</div>
+								<div class="fr-flex-col-sm-6">
+									<ul class="mainNav__submenu__list">
+										<li class="mainNav__submenu__list__item"><a href="/reviews">Отзывы</a></li>
+										<li class="mainNav__submenu__list__item"><a href="/news">Новости</a></li>
+										<li class="mainNav__submenu__list__item"><a href="/clients">Клиенты</a></li>
+										<li class="mainNav__submenu__list__item"><a href="/stat">Статистика</a></li>
+										<li class="mainNav__submenu__list__item"><a href="/move-to-abcp">Переезд на ABCP</a></li>
+										<li class="mainNav__submenu__list__item"><a href="/seo-number-two">SЕО-Продвижение</a></li>
+										<li class="mainNav__submenu__list__item"><a href="/suppliers">Рейтинг поставщиков</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="fr-flex-col-sm-4">
+							<div class="mainNav__submenu__heading">Другие продукты компании</div>
+							<ul class="mainNav__submenu__list">
+								<li class="mainNav__submenu__list__item"><a href="/tecdoc">Каталог Текдок для сайта</a></li>
+								<li class="mainNav__submenu__list__item"><a href="/crossbase">База кроссов, аналогов и замен</a></li>
+								<li class="mainNav__submenu__list__item"><a href="/carservice">Модуль онлайн-записи для автосервиса</a></li>
+							</ul>
+							<ul class="mainNav__submenu__list">
+								<li class="mainNav__submenu__list__item"><a href="https://vinqu.com/" target="_blank">Vinqu.com &mdash; биржа обработки VIN-запросов</a></li>
+								<li class="mainNav__submenu__list__item"><a href="https://4mycar.ru/" target="_blank">4MyCar.ru &mdash; агрегатор магазинов автозапчастей</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="copyright">
+					<span style="color: #0687b1;">&copy;</span> <a rel="nofollow" href="https://nodasoft.com/" style="text-decoration: none;">NodaSoft</a><br />Все права защищены
+				</div>
+				<div class="footInfo">
+					<a class="fancybox.iframe" id="showOfferLink" href="https://docs.google.com/document/d/1oyyzTl6Yp0JaCaTEfyF60bfgaiL4HRpfUo0-ryulaIw/pub">Политика конфиденциальности</a>
+				<script>
+					$(function() {
+						$("#showOfferLink").fancybox({
+							autoScale: true,
+							autoDimensions: true,
+							width: 1200,
+							height: '95%'
+						});
+					});
+				</script>
+				</div>
+			</div>
+		</footer>
+	</div>
+<script src="//astatic.nodacdn.net/common.jscripts/jquery/jquery.validate.min.js?1"></script>
+<script src="//astatic.nodacdn.net/common.jscripts/jquery/jquery.tools.min.js"></script>
+<script src="//astatic.nodacdn.net/common.jscripts/jquery.qtip.2/jquery.qtip.js?2"></script>
+<!-- Кнопка звонка на страницах сайта-->
+<div id="wCallMeBtn" class="wHotIconBtn" title="Нажмите, чтобы заказать обратный звонок">
+	<a href="#wCallMeBody" id="wCallMeLink">
+		<div class="wHotIconCont wHotIconCircle">
+			<div class="wHotIconWave wHotIconWaveStroke"></div>
+			<span class="fr-icon-phone"></span>
+		</div>
+	</a>
+</div>
+
+<!-- Всплывающее окно с полем ввода телефона -->
+<div id="wCallMeBody" class="wCallMeBody">
+	<div class="wCallMeTitle">У вас есть вопросы?</div>
+	<form id="wCallMeForm" class="clearfix">
+		<div class="fr-col-row wCallMeErrorCont">
+			<div class="fr-col-xs-12 fr-col-md-6">
+				<input type="text" class="fr-form-control" name="callMePhone" id="wCallMePhone"
+				       value=""
+				       placeholder="Введите ваш номер телефона" />
+				<input type="hidden" name="token" value=""/>
+				<noscript>
+					<div>Включите поддержку JavaScript в настройках вашего браузера.</div>
+				</noscript>
+			</div>
+			<div class="fr-col-xs-12 fr-col-md-6">
+				<input type="submit" id="wDoCallMeBtn" onclick="ym(15779137, 'reachGoal', 'click_call'); return true;" class="submitButton fr-btn-block" value="Жду звонка"/>
+			</div>
+		</div>
+	</form>
+	<p id="wErrorCallMessage"></p>
+	<p id="wHelpCallMessage">
+		Введите номер, нажмите кнопку, и менеджер перезвонит вам в течение 30 секунд.
+	</p>
+	<p id="wDoCallMessage">
+		Мы уже набираем Ваш номер...
+	</p>
+</div>
+
+    <!-- Кнопка звонка на страницах сайта-->
+    <div id="wClientRequestBtn" class="wHotIconBtn" title="Нажмите, чтобы отправить запрос">
+        <a href="#wClientRequestBody" onclick="ym(15779137, 'reachGoal', 'click_question'); return true;"
+		   id="wClientRequestLink" class="fr-hidden-xs">
+            <div class="wHotIconCont wHotIconCircle">
+                <div class="wHotIconWave wHotIconWaveStroke"></div>
+                <span class="fr-icon-question"></span>
+            </div>
+        </a>
+	    <a href="/start" onclick="ym(15779137, 'reachGoal', 'click_question'); return true;" id="wClientRequestLink" class="fr-visible-xs">
+		    <div class="wHotIconCont wHotIconCircle">
+			    <div class="wHotIconWave wHotIconWaveStroke"></div>
+			    <span class="fr-icon-question"></span>
+		    </div>
+	    </a>
+    </div>
+
+    <!-- Всплывающее окно с полем ввода телефона -->
+    <div id="wClientRequestBody">
+        <p id="wTimeWarningMessage" class="fr-alert fr-alert-warning">
+            Заказать обратный звонок можно только с <strong>9:30</strong> до <strong>17:30</strong> по московскому времени.<br />
+            Задайте свой вопрос через форму, расположенную ниже, или попробуйте позже.
+        </p>
+        
+
+<link href="//astatic.nodacdn.net/css/pt.sans.css?2" rel="stylesheet" type="text/css">
+<link href="//astatic.nodacdn.net/css/open.sans.css?2" rel="stylesheet" type="text/css">
+<!-- JS file -->
+<script src="//astatic.nodacdn.net/common.jscripts/jquery/EasyAutocomplete-1.3.5/jquery.easy-autocomplete.min.js"></script>
+<!-- CSS file -->
+<link rel="stylesheet" href="//astatic.nodacdn.net/common.jscripts/jquery/EasyAutocomplete-1.3.5/easy-autocomplete.min.css">
+<!-- Additional CSS Themes file - not required-->
+<link rel="stylesheet" href="//astatic.nodacdn.net/common.jscripts/jquery/EasyAutocomplete-1.3.5/easy-autocomplete.themes.css?3">
+
+<noscript>
+    JavaScript не поддерживается или отключен в настройках вашего браузера. Корректная работа формы регистрации не гарантируется.
+</noscript>
+
+<div class="wIntroductionOurClient">
+            <form method="post" action="/start" name="clientRequestForm" id="clientRequestForm"
+          data-demo-tariff-id=""
+          data-demo-tariff-name="">
+        <input type="hidden" name="action" id="action" value="question"/>
+        <div class="clientRequestForm">
+            <span class="titleIntroductionOurClient">Задать вопрос</span>
+            <div class="introductionOurClientLine">
+                <div class="requestFormLabel">
+                    Имя <sup>*</sup>
+                </div>
+                <div class="requestFormControls colored">
+                    <input type="text" name="name" id="name" size="40" value=""
+                           title="Введите имя"/>
+                </div>
+            </div>
+            <div class="introductionOurClientLine">
+                <div class="requestFormLabel">
+                    Еmail <sup>*</sup>
+                    <div class="requestFormHelpText">Пример: example@yourdomain.com</div>
+                </div>
+                <div class="requestFormControls colored">
+                    <input type="text" name="email" id="email" value=""
+                           title="Введите email контактного лица"/>
+                </div>
+            </div>
+            <div class="introductionOurClientLine">
+                <div class="requestFormLabel">
+                    Мобильный <sup>*</sup>
+                    <div class="requestFormHelpText">Пример: 9998887766<br>Будет отправлен проверочный код</div>
+                </div>
+                <div class="requestFormControls colored">
+                    <input type="tel" id="phoneField" name="phone" value=""
+                           data-value-from-post=""
+                           class="phoneCountry"
+                           title="Введите контактный номер телефона" />
+                </div>
+            </div>
+            
+            <div class="introductionOurClientLine">
+                <div class="requestFormLabel">
+                    Страна <sup>*</sup>
+                    <div class="requestFormHelpText">Пример: Россия</div>
+                </div>
+                <div class="requestFormControls colored">
+                                                                                                            <input type="hidden" name="countryCode" id="countryCodeNewClient" value="643" />
+                    <input type="text" autocomplete="off" name="country" id="countryNewClient" value="Россия"
+                           title="Введите название вашей страны"/>
+                </div>
+            </div>
+            
+            <div class="introductionOurClientLine">
+                <div class="requestFormLabel">
+                    Город <sup>*</sup>
+                    <div class="requestFormHelpText">Пример: Ростов-на-Дону</div>
+                </div>
+                <div class="requestFormControls colored">
+                    <input type="hidden" name="cityCode" id="cityCode" value="" />
+                    <input type="hidden" name="utcOffset" id="utcOffset" value="" />
+                    <input type="text" autocomplete="off" name="cityName" id="cityName" value=""
+                           title="Введите название вашего города"/>
+                </div>
+            </div>
+            
+            
+            <div class="introductionOurClientLine" id="blockCompanyName">
+                <div class="requestFormLabel">
+                    Название компании <sup>*</sup>                     <span class="requestFormHelpText">Пример: ИП Иванов В.А.</span>
+                </div>
+                <div class="requestFormControls colored">
+                    <input type="text" name="companyName" id="companyName" value=""
+                           title="Название компании"/>
+                </div>
+            </div>
+            
+            <div class="introductionOurClientLine">
+                
+  <div class="requestFormLabel">
+      Ваш вопрос  </div>
+
+                <div class="requestFormControls colored">
+                    <textarea name="comment" cols="65" rows="5"
+                              title="Введите комментарий"></textarea>
+                </div>
+            </div>
+            <div class="introductionOurClientLineBottom">
+                <div class="requestFormLabel">
+                    <div class="requestFormHelpText"><sup> * </sup>
+                        - поля,  обязательные для заполнения                    </div>
+                </div>
+                <div class="requestFormControls formRecaptcha">
+                    <input type="hidden" name="token-step1" value=""/>
+                    
+  <div class="offerBlock">
+    <label class="checkOfferCheckboxLabel" for="checkOfferCheckbox" id="checkOfferCheckboxLabel">
+      <input type="checkbox" name="checkOffer" id="checkOfferCheckbox"
+             value="1" checked="checked"/>
+      <div id="policyOnly">
+                    Я согласен с <a id="showPolicy" class="fancybox.iframe" href="https://docs.google.com/document/d/1oyyzTl6Yp0JaCaTEfyF60bfgaiL4HRpfUo0-ryulaIw/pub?embedded=true">политикой конфиденциальности</a>
+      </div>
+    </label>
+  </div>
+
+                    
+                    <input type="button" name="continue" id="step1SubmitBtn"
+                           value="Продолжить"
+                           class="submitButton fr-btn-block"/>
+                    
+                </div>
+            </div>
+        </div>
+        <input type="checkbox" class="hidden" name="useMobileForNotifications" id="useMobileForNotifications" checked="checked">
+    </form>
+    <div class="hidden">
+        <div id="approvalBlock" class="approvalBlock">
+            <div class="fr-alert fr-alert-info fr-alert-block">Вам отправлено SMS с кодом из 5 цифр. Введя код из SMS в поле ниже и нажав "Подтвердить", вы подтверждаете, что имеете доступ к указанному телефону.<br /> Код действителен в течение 10 минут.<br /> Если вы не получили код в течение 1 минуты, нажмите "Отправить код ещё раз" <br />или обратитесь к менеджерам сайта.</div>
+            <div class="fr-alert fr-alert-block" id="approvalInfoMsg"></div>
+            <div class="approvalBlockForm">
+                <label class="approvalLabel">Код подтверждения
+                    <input id="approvalCode" name="approvalCode" type="tel" maxLength="5" class="fr-form-control approvalCode">
+                </label>
+                <div class="approvalButton">
+                    <button class="fr-btn fr-btn-success" id="approvalCodeBtn" type="button">Подтвердить</button>
+                </div>
+                <div class="approvalAgainButton">
+                    <a href="#" id="getApprovalCodeAgainBtn" class="getApprovalCodeAgainBtn">Отправить код ещё раз</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="//astatic.nodacdn.net/common.jscripts/jquery.inputmask.bundle.js?abcp-2694"></script>
+<script src="//astatic.nodacdn.net/common.jscripts/multimaskOptions.js?abcp-2695"></script>
+<script>
+    $(function() {
+        var $phoneField = $('#phoneField');
+        var oldPhone = $phoneField.val(),
+            ajaxSettings = {
+                url: '/',
+                dataType: 'json',
+                type: 'POST',
+                data: { }
+            },
+            fancyBoxSettings = {
+                href: '#approvalBlock',
+                maxWidth: 550
+            };
+
+        var getApprovalCodeAgainHandler = function(e) {
+            e.preventDefault();
+            $('#approvalInfoMsg').text('');
+            $.fancybox.update();
+            var $this = $(this);
+            $this.prop('disabled', true);
+            ajaxSettings.data = {
+                action: 'customers/sendApprovalCode',
+                again: 1,
+                mobilePhone: $('#phoneField').val(),
+                'token-step1': $('input[name="token-step1"]').val()
+            };
+            $.ajax(ajaxSettings).done(function(response) {
+                if (response && !response.success && response.message) {
+                    $('#approvalInfoMsg')
+                        .removeClass('fr-alert-success')
+                        .addClass('fr-alert-danger')
+                        .text(response.message);
+                    $.fancybox.update();
+                } else if (response && response.success && !response.message) {
+                    $('#approvalInfoMsg')
+                        .removeClass('fr-alert-danger')
+                        .addClass('fr-alert-success')
+                        .text('Код отправлен. Повторно запросить код можно через 1 минуту.');
+                    $.fancybox.update();
+                }
+                $this.prop('disabled', false);
+            });
+        };
+
+        var checkApprovalCodeHandler = function(e) {
+            e.preventDefault();
+            var $this = $(this);
+            $this.prop('disabled', true);
+            $('#approvalInfoMsg').text('');
+            $.fancybox.update();
+            ajaxSettings.data = {
+                action: 'customers/checkApprovalCode',
+                code: $('#approvalCode').val(),
+                mobilePhone: $('#phoneField').val(),
+                'token-step1': $('input[name="token-step1"]').val()
+            };
+            $.ajax(ajaxSettings).done(function(response) {
+                if (response.message) {
+                    $this.prop('disabled', false);
+                    $('#approvalInfoMsg')
+                            .removeClass('fr-alert-success')
+                            .addClass('fr-alert-danger')
+                            .text(response.message);
+                    $.fancybox.update();
+                } else if (response.success && !response.message) {
+                    $('#clientRequestForm').submit();
+                    $.fancybox.close();
+                    $('#step1SubmitBtn').prop('disabled', true);
+                }
+            })
+        };
+        $('#approvalBlock')
+            .off('click', '#getApprovalCodeAgainBtn')
+            .on('click', '#getApprovalCodeAgainBtn', getApprovalCodeAgainHandler)
+            .off('click', '#approvalCodeBtn')
+            .on('click', '#approvalCodeBtn', checkApprovalCodeHandler);
+
+        initValidationClientRequestForm();
+        changeWorkMode($('.workModeInput:checked'));
+        changeSelectedTariff();
+        $('.workModeInput').off().on('click', function() {
+            changeWorkMode($(this));
+        });
+        $("#tariffId").off().on('change', function() {
+            changeSelectedTariff();
+        });
+        $('#step1SubmitBtn').off().on('click', function(e) {
+            e.preventDefault();
+            $('#approvalInfoMsg').text('');
+            $.fancybox.update();
+            var $tokenStep1 = $('input[name="token-step1"]');
+            $tokenStep1.val(Math.random().toString(36).substring(7));
+            if ($('#clientRequestForm').valid()) {
+                if (oldPhone != $phoneField.val()) {
+                    // Отправка SMS с кодом подтверждения
+                    ajaxSettings.data = {
+                        action: 'customers/sendApprovalCode',
+                        again: 0,
+                        mobilePhone: $('#phoneField').val(),
+                        'token-step1': $tokenStep1.val()
+                    };
+                    $.ajax(ajaxSettings).done(function(res) {
+                        if (!res.success && res.message) {
+                            $('#approvalInfoMsg')
+                                .removeClass('fr-alert-success')
+                                .addClass('fr-alert-danger')
+                                .text(res.message);
+                            $.fancybox.update();
+                        }
+                    });
+                    oldPhone = $phoneField.val();
+                }
+                $.fancybox(fancyBoxSettings);
+                if (!$.browser.mobile) {
+                    $('#approvalCode').focus();
+                }
+            }
+        });
+        initPhoneMask($phoneField);
+        $phoneField.attr('placeholder', '+7 (900) 000-00-00');
+
+        var $countryName = $('#countryNewClient'),
+            $countryCode = $('#countryCodeNewClient'),
+            $cityName = $('#cityName'),
+            $cityCode = $('#cityCode');
+        bindCountryAutoComplete($countryName, $countryCode);
+        bindCityAutoComplete($cityName,$cityCode);
+        initAutoRebindAutoComplete($cityName,$cityCode, $countryName, $countryCode);
+        initShowOfferAndPolicyInFancyBox();
+    });
+
+    /**
+     * Инициализация отображения договора-оферты и политики конфиденциальности посредством fancybox
+     */
+    function initShowOfferAndPolicyInFancyBox() {
+        var fancyboxSettings = {
+            autoScale: true,
+            titlePosition: 'inside',
+            autoDimensions: true,
+            width: 640
+        };
+        $("#showOffer").fancybox(fancyboxSettings);
+        $("#showPolicy").fancybox(fancyboxSettings);
+    }
+
+    /**
+     * Инициализирует валидацию формы
+     */
+    function initValidationClientRequestForm() {
+        $.validator.addMethod('hiddenCountryCode', function() {
+            return !!$('#countryCodeNewClient').val();
+        });
+        $.validator.addMethod('hiddenCityCode', function() {
+            var flag = true;
+            if ($('#countryCodeNewClient').val() === '643') {
+                flag = !!$('#cityCode').val();
+            }
+            return flag;
+        });
+        jQuery.validator.addMethod('phonemask', function(value, element) {
+            return !!$(element).inputmask('isComplete');
+        });
+        // проверка на соответствие доменов 1го и 2го уровня включая кириллические
+        jQuery.validator.addMethod('checkForDomain', function (value, element) {
+            
+                var domainRegExp = RegExp('^([a-zа-я0-9][a-zа-я0-9-]{1,61}[\.]{1})+[a-zа-я0-9]{2,10}$');
+            
+            if (value === '') {
+                return true;
+            }
+            return domainRegExp.test(value);
+        });
+        $('#clientRequestForm').validate({
+            ignore: ':hidden:not(textarea:hidden)',
+            rules: {
+                name: {
+                    required: true
+                },
+                email: {
+                    email: true,
+                    required: true
+                },
+                domain: {
+                    checkForDomain: true
+                },
+                phone: {
+                    required: true,
+                    phonemask: true
+                },
+                country: {
+                    required: true,
+                    hiddenCountryCode: true
+                },
+                cityName: {
+                    required: true,
+                    hiddenCityCode: true
+                },
+                workMode: {
+                    required: true
+                },
+                tariff: {
+
+                },
+                checkOffer: {
+                    required: true
+                }
+            },
+            messages: {
+                name: "Введите имя", /*Введите имя*/
+                email: "Введите email контактного лица", /*Введите email контактного лица*/
+                phone: "Введите телефон", /*Введите телефон*/
+                domain: "Введите корректное название домена", /*Введите корректный домен*/
+                country: "Введите название вашей страны и выберите вариант из списка", /*Введите название вашей страны*/
+                cityName: "Введите название вашего города", /*Введите название вашего города*/
+                checkOffer: "Подтвердите своё согласие" /*Подтвердите своё согласие*/
+            },
+            focusInvalid: true,
+            errorClass: 'errormessage',
+            errorElement: 'div',
+            onkeyup: false,
+            errorPlacement: function(error, element) {
+                if (element.attr('name') == 'workMode') {
+                    var workModeLastRadio = $('#workModeLastRadio');
+                    error.insertAfter(workModeLastRadio);
+                }
+                else {
+                    error.insertAfter(element);
+                }
+            },
+            onfocusout: function(element, evt) {
+                if (!this.checkable(element) && (element.name in this.submitted || !this.optional(element))) {
+                    var validatorObj = this;
+                    setTimeout(function() {
+                        validatorObj.element(element);
+                    }, $('#cityName').is($(evt.target)) ? 1000 : 0);
+                }
+            },
+            success: $.noop // Odd workaround for errorPlacement not firing!
+        });
+        $("#checkOfferCheckbox").rules("add", {
+            required: true,
+            messages: {
+                required: "Подтвердите своё согласие"
+            }
+        });
+    }
+
+    function changeSelectedTariff() {
+        var rentalFeePrice = parseInt($("#tariffId").find(":selected").data("rentalFeePrice"));
+        if (rentalFeePrice == 0) {
+            $("#rentalFeeLabel").hide();
+        } else {
+            $("#rentalFeeLabel").show();
+            $("#rentalFeePrice").html(rentalFeePrice);
+            if ($("#workMode_cashless").prop("checked")) {
+                //если это безналичный расчёт, увеличиваем цены на указанный %
+                var cashlessPriceUp = parseInt($("#workMode_cashless").data('cashlessPriceUp'));
+                var rentalFeePrice = parseInt($("#tariffId").find(":selected").data("rentalFeePrice"));
+                rentalFeePrice += rentalFeePrice * cashlessPriceUp / 100;
+                $("#rentalFeePrice").html(rentalFeePrice);
+            }
+        }
+    }
+
+    function changeWorkMode(el) {
+        // если это безналичный расчёт, увеличиваем цены на указанный %
+        var cashlessPriceUp = parseInt($("#workMode_cashless").data('cashlessPriceUp'));
+        var rentalFeePrice = parseInt($("#tariffId").find(":selected").data("rentalFeePrice"));
+        var $blockCompanyName = $("#blockCompanyName");
+        var $blockSelectTariff = $("#blockSelectTariff");
+        var $blockDomain = $('#blockDomain');
+        var $secondStepTab = $('.second').parent();
+
+        if (el.val() === "agreement") {
+            $('#agreeText').html($('#policyOnly').html());
+            rentalFeePrice += rentalFeePrice * cashlessPriceUp / 100;
+            $("#rentalFeePrice").html(rentalFeePrice);
+        } else {
+            $('#agreeText').html($('#offerAndPolicy').html());
+            $("#rentalFeePrice").html(rentalFeePrice);
+        }
+        var clientRequestForm = $("#clientRequestForm");
+        var demoTariffId = parseInt(clientRequestForm.data("demoTariffId"));
+        if (demoTariffId > 0) {
+            $("#tariffId option[value='" + demoTariffId + "']").remove();
+        }
+        $blockCompanyName.hide();
+        $blockSelectTariff.show();
+        $blockDomain.show();
+        $secondStepTab.show();
+        $("#companyName").rules('remove');
+
+        if (el.val() === "") { // если это консультация добавляем необязательный тариф
+            $("#tariffId option[value='0']").remove();
+            var html = '<option data-rental-fee-price="0" data-connection-tariff-price="0" value="0" data-is-demo="0">'
+                + "Не знаю, нужна консультация"
+                +'</option>';
+            $("#tariffId").append(html);
+            $("#tariffId option[value=0]").attr('selected','selected');
+        } else if (el.val() === "demo") {
+            var demoTariffName = clientRequestForm.data("demoTariffName");
+            var html = '<option data-rental-fee-price="0" data-connection-tariff-price="0" value="' + demoTariffId + '">' + demoTariffName + '</option>';
+            $("#tariffId").append(html);
+            $("#tariffId").val(demoTariffId);
+            $blockSelectTariff.hide();
+            $blockCompanyName.show();
+            $("#companyName").rules('add', {
+                required: true,
+                messages: {
+                    required: "Введите название компании"
+                }
+            });
+            $secondStepTab.hide();
+        } else {
+            $("#tariffId option[value='0']").remove();
+        }
+        changeSelectedTariff();
+    }
+</script>
+
+    <script>
+        /**
+         * Инициализация маски для ввода номера телефона
+         * @param $phoneSelector
+         */
+        function initPhoneMask($phoneSelector) {
+            $phoneSelector.off().on('change', function() {
+                $(this).inputmasks("phone");
+            });
+            $phoneSelector.change();
+        }
+    </script>
+
+
+    <script>
+        /**
+         * Функция снимает ограничение модуля EasyAutocomplete
+         * https://github.com/pawelczak/EasyAutocomplete/issues/189#issuecomment-287937728
+         */
+        function hackIOSKeyUpOnAutoComplete(e) {
+            if (!(e.keyCode | e.which) && /ipad|iphone|ipod/i.test(navigator.userAgent)) {
+                e.keyCode = 41;
+                $(this).trigger(e);
+            }
+        }
+        /**
+         * Биндит автокомплит страны на указанные инпуты
+         *
+         * ВНИМАНИЕ !
+         * Данная функция должна вызываться только после того как на форму будет навешено событие .validate()
+         * из-за использования метода .valid() внутри тела ф-ии, подробности https://jqueryvalidation.org/valid/
+         * @param $countryName инпут с названием страны
+         * @param $countryCode инпут с кодом страны
+         */
+        function bindCountryAutoComplete($countryName, $countryCode) {
+            var options = {
+                url: '//astatic.nodacdn.net/common.jscripts/countries.json',
+                dataType: 'json',
+                ajaxSettings: {
+                    jsonp: 'callback',
+                    jsonpCallback: 'countries',
+                    dataType: 'jsonp'
+                },
+                list: {
+                    match: {
+                        enabled: true
+                    },
+                    onChooseEvent: function() {
+                        setRealNameAndCode($countryName, $countryCode);
+                        $countryName.valid();
+                    },
+
+                    onSelectItemEvent: function() {
+                        $countryName.val('');
+                        $countryCode.val('');
+                    },
+                    onMouseOverEvent: function() {
+                        $countryName.val('');
+                        $countryCode.val('');
+                    }
+
+                },
+    //            placeholder: "Россия",
+                getValue: function(element) {
+                    return element.name + ' '
+                        + element.searchName + ' '
+                        + element.fullName + ' '
+                        + element.numberCode + ' '
+                        + element.alfa2 + ' '
+                        + element.alfa3 + ' '
+                        + element.currencyISO;
+                },
+                template: {
+                    type: 'custom',
+                    method: function(value, item) {
+                        return item.name;
+                    }
+                },
+                minCharNumber: 3,
+                requestDelay: 300,
+                theme: 'square'
+            };
+            // При попытке изменить страну вручную обнуляем инпут с кодом
+            $countryName.on('input', function() {
+                $countryCode.val('');
+            });
+            $(document).on('keyup', '#countryNewClient', hackIOSKeyUpOnAutoComplete);
+            $countryName.easyAutocomplete(options);
+        }
+
+        /**
+         * Навешивает автокомплит на инпут с городом
+         * @param $cityName инпут с названием города
+         * @param $cityCode инпут с кодом города
+         */
+        function bindCityAutoComplete($cityName, $cityCode) {
+            var options = {
+                url: '/start',
+                dataType: 'json',
+                ajaxSettings: {
+                    type: 'POST',
+                    data: {
+                        action: 'getCity'
+                    }
+                },
+                list: {
+                    onChooseEvent: function() {
+                        var $utcOffset = $('#utcOffset');
+                        if ($utcOffset.length > 0) {
+                            var item = $cityName.getSelectedItemData();
+                            $utcOffset.val(item.utcOffset);
+                        }
+                        setRealNameAndCode($cityName, $cityCode);
+                        $cityName.valid();
+                    }
+                },
+                preparePostData: function(data) {
+                    data.phrase = $cityName.val();
+                    return data;
+                },
+                // по каким совпадениям искать
+                getValue: function(element) {
+                    return element.name;
+                },
+                template: {
+                    type: 'custom',
+                    method: function(value, item) {
+                        return item['name'] + ' (' + item['region']+')';
+                    }
+                },
+                minCharNumber: 3,
+                requestDelay: 300,
+                theme: 'square'
+            };
+
+            // При попытке изменить город вручную обнуляем инпут с кодом
+            $cityName.on('input', function() {
+                $cityCode.val('');
+            });
+            $(document).on('keyup', '#cityName', hackIOSKeyUpOnAutoComplete);
+            $cityName.easyAutocomplete(options);
+        }
+
+        /**
+         * Автоматически отписывает/подписывает автокомплит на инпут с городом
+         * Используем удаление элемента и внедрение точно такого же, т.к. по умолчанию либа не имеет своей отписки
+         * @param $cityName инпут с названием города
+         * @param $cityCode инпут с кодом города
+         * @param $countryName инпут с названием страны
+         * @param $countryCode инпут с кодом страны
+         */
+        function initAutoRebindAutoComplete($cityName, $cityCode, $countryName, $countryCode) {
+            $countryName.on('change', function() {
+                setTimeout(function() { // либа не успевает проставить значение в countryCode, нужна небольшая задержка
+                    $cityName.val('');
+                    $cityName.off();
+                    $cityCode.val('');
+                    if ($countryCode.val() === '643') {
+                        bindCityAutoComplete($cityName, $cityCode);
+                    }
+                }, 30);
+            });
+        }
+
+        /**
+         * Устанавливает реальное значение параметра в инпут и его код (для города и страны)
+         * @param $nameInput
+         * @param $codeInput
+         */
+        function setRealNameAndCode($nameInput, $codeInput) {
+            var element = $nameInput.getSelectedItemData();
+            $nameInput.val(element.name);
+            $codeInput.val(element.numberCode);
+        }
+    </script>
+
+    </div>
+
+<script>
+	/**
+	 * Проверяет возможность звонка клиенту (зависит от дня недели и времени)
+	 * @returns {boolean}
+	 */
+	function isAllowCallMeWidget() {
+		var currentDate = new Date();
+		// Меняем на Московское время
+		currentDate.setHours(currentDate.getHours() + currentDate.getTimezoneOffset()/60 + 3);
+
+		var currentDay = currentDate.getDay();
+		var today = new Date(currentDate.getFullYear(), currentDate.getMonth(), currentDate.getDate());
+		var diff = Math.round((currentDate - today) / 60000); // Разница в секундах от начала суток
+
+		return !(currentDay == 0 || currentDay == 6 // Сегодня воскресенье или суббота
+		|| diff < 570 // Сейчас меньше 9:30
+		|| diff > 1050); // Сейчас больше 17:30
+	}
+
+	/**
+	 * Отображает сообщения в диалоговом окне
+	 * @param {string} outputMsg Текст сообщения
+	 */
+	function customAlertWidget(outputMsg) {
+		if (!outputMsg)
+			outputMsg = 'No Message to Display.';
+
+		$("<div></div>").html(outputMsg).dialog({
+			resizable: false,
+			modal: true,
+			dialogClass: "callAlert",
+			width: 320,
+			height: 110,
+			draggable: false,
+			buttons: {
+				"Хорошо": function()
+				{
+					$( this ).dialog( "destroy" );
+				}
+			}
+		});
+	}
+
+	/**
+	 * Инициализации маски для ввода номера телефона
+	 * @param $phoneSelector
+	 */
+	function initCallPhoneMask($phoneSelector) {
+		$phoneSelector.off().on('change', function() {
+			$(this).inputmask({ "mask": "+7(###)###-##-##"});
+		});
+		$phoneSelector.change();
+	}
+
+	$(document).ready(function() {
+		jQuery.validator.addMethod('callMePhone', function(value, element, param) {
+			var phoneValue = value;
+			phoneValue = phoneValue.replace(/\D/g, '');
+			// Звоним только в Россию, но исключаем платные 80*
+			if (/^[78]([3459]\d{1}|8[^0\D])\d{8}$/.test(phoneValue)) {
+				return true;
+			} else {
+				return false;
+			}
+		}, 'Значение должно быть меньше значения зависимого поля');
+
+		var $wErrorCallMessage = $('#wErrorCallMessage');
+
+		// Маска для поля номера телефона
+		initCallPhoneMask($("#wCallMePhone"));
+
+    $("a#wCallMeLink, a#wCallMeLinkText").click(function() {
+			if (isAllowCallMeWidget()) { // Всё ОК, показываем форму звонка
+				$("#timeWarningMessage").hide();
+				return true;
+			} else { // Показываем форму отправки запроса на сотрудничество
+				$("a#clientRequestLink").trigger('click');
+				$("#timeWarningMessage").show();
+				return false;
+			}
+		});
+
+		//Скрываем кнопку звонка в нерабочее время
+		if (!isAllowCallMeWidget()) {
+			$("#wCallMeBtn").hide();
+		}
+
+		$("a#wCallMeLink, a#wCallMeLinkText").fancybox({
+			'width': 350,
+			'height': 'auto',
+			'transitionIn': 'none',
+			'transitionOut': 'none',
+			'overlayShow': false,
+			'hideOnContentClick': true,
+			'showCloseButton': true,
+			helpers : {
+				overlay : {
+					locked : false
+				}
+			},
+			beforeShow: function () {
+				$(".bodyBlur").addClass("blur");
+				$(".fancybox-overlay").css("opacity", "0.1");
+				$('#wDoCallMessage').hide();
+				$("#wDoCallMeBtn").removeAttr('disabled');
+			},
+			onUpdate: function () {
+				$('body').removeClass('appleOverflow');
+			},
+			afterClose: function () {
+				$(".bodyBlur").removeClass("blur");
+				$('#helpCallMessage').show();
+				$('#wDoCallMessage').hide();
+				$("#wDoCallMeBtn").removeAttr('disabled');
+				$('body').removeClass('appleOverflow');
+			}
+		});
+
+		$('#wCallMeForm').submit(function() { // Нажали на "Позвонить мне прямо сейчас"
+			$wErrorCallMessage.empty();
+			if (!isAllowCallMeWidget()) {
+				customAlertWidget('Заказать обратный звонок можно только с 9:30 до 17:30 по МСК. Воспользуется формой обратной связи.');
+
+				return false;
+			}
+
+			if ($('#wCallMeForm').valid()) {
+				var phoneValue = $('#wCallMePhone').val();
+				phoneValue = phoneValue.replace(/\D/g, '');
+				// Звоним только в Россию, но исключаем платные 80*
+				if (/^7([3459]\d{1}|8[^0\D])\d{8}$/.test(phoneValue)) {
+					phoneValue = phoneValue.replace(/^7/, 8);
+				} else if (/^8([3459]\d{1}|8[^0\D])\d{8}$/.test(phoneValue)) {
+					// Так надо!!!
+				} else {
+					customAlertWidget('Номер клиента задан неверно');
+
+					return false;
+				}
+				$("#wDoCallMeBtn").attr('disabled', 'disabled');
+				var $token = $('input[name="token"]');
+				$token.val(Math.random().toString(36).substring(7));
+				$.ajax({
+					url: '/callMe',
+					dataType: "json",
+					data: {
+						'callMePhone': phoneValue,
+						'token': $token.val()
+					},
+					success: function(data) {
+						if (!data.success) {
+							if (data.message) {
+								$wErrorCallMessage.html(data.message);
+							} else {
+								customAlertWidget('Неизвестная ошибка. Попробуйте позже или воспользуйтесь формой обратной связи.');
+							}
+							$("#wDoCallMeBtn").removeAttr('disabled');
+						} else {
+							$('#wHelpCallMessage').hide();
+							$('#wDoCallMessage').show();
+							setTimeout(function() {
+								$.fancybox.close();
+								$('#wHelpCallMessage').show();
+								$('#wDoCallMessage').hide();
+							}, 30000);
+						}
+					},
+					error: function(jqXHR, textStatus, errorThrown){
+						$("#wDoCallMeBtn").removeAttr('disabled');
+						customAlertWidget('Неизвестная ошибка. Попробуйте позже или воспользуйтесь формой обратной связи.');
+					}
+				});
+			}
+			return false;
+		});
+
+		$('#wCallMeForm').validate({
+			ignore: ".ignore, :hidden",
+			focusInvalid: true,
+			onkeyup: false,
+			onfocusout: function(element) {
+				$(element).valid();
+			},
+			rules: {
+				callMePhone: {
+					callMePhone: true
+				}
+			},
+			messages: {
+				callMePhone: {
+					callMePhone: "Укажите номер телефона (длина 11 символов). Только для абонентов России."
+				}
+			},
+			errorClass: 'callMeError',
+			errorLabelContainer: "#helpCallMessage"
+		});
+
+		//////////////////////////////////////////////////////////////////////////
+		// Кнопка вопроса ////////////////////////////////////////////////////////
+		//////////////////////////////////////////////////////////////////////////
+
+		$("a#wClientRequestLink").on('click', function(e) {
+			$("#timeWarningMessage").hide();
+
+			var sourceSelector = $(this).attr('href');
+			var $source = $(sourceSelector);
+			$source.find('script[src]').remove();
+
+			$.fancybox($source, {
+				width: 350,
+				height: 'auto',
+				transitionIn: 'none',
+				transitionOut: 'none',
+				overlayShow: false,
+				hideOnContentClick: true,
+				showCloseButton: true,
+				helpers: {
+					overlay: {
+						locked: false
+					}
+				},
+				beforeShow: function () {
+					$(".bodyBlur").addClass("blur");
+					$(".fancybox-overlay").css("opacity", "0.2");
+					$(".wTitleClientReq").text("Задать вопрос по платформе");
+				},
+				onUpdate: function () {
+					$('body').removeClass('appleOverflow');
+				},
+				afterClose: function () {
+					$(".bodyBlur").removeClass("blur");
+					$('body').removeClass('appleOverflow');
+				}
+			});
+
+			e.preventDefault();
+		});
+	});
+</script>
+
+</body>
+</html>

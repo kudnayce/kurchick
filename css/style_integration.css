@@ -1,0 +1,33 @@
+body {
+    margin: 0px;
+    background-color: #e3f8ff;
+}
+
+h1 {
+    color: #004669;
+}
+
+.main_content_integration-grid_block {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+}
+
+.main_content_integration-grid_block div {
+    display: grid;
+    border: 1px solid;
+    height: max-content;
+}
+
+h2 {
+    display: grid;
+}
+
+.content_integration_block-integration_title {
+    overflow: auto;
+    height: fit-content;
+}
+
+.integrations__tile__text {
+    height: fit-content;
+}

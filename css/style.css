@@ -1,0 +1,290 @@
+            body {
+                color: #656565;
+                font-weight: 400;
+                font: 13px Arial, sans-serif;
+                font-style: normal;
+                font-variant-ligatures: normal;
+                font-variant-caps: normal;
+                font-variant-numeric: normal;
+                font-variant-east-asian: normal;
+                font-weight: 400;
+                font-stretch: normal;
+                font-size: 13px;
+                line-height: normal;
+                font-family: Arial, sans-serif;
+            }
+            
+            .bodyBlur {
+                width: 100%;
+            }
+            
+            img {
+                max-width: 100%;
+                height: auto;
+            }
+            
+            .site_wrapper {
+                display: flex;
+                height: 100%;
+                margin: 0 auto;
+                position: relative;
+                flex-direction: column;
+            }
+            
+            .head {
+                background: #e3f8ff;
+                width: 100%;
+                flex-shrink: 0;
+            }
+            
+            .head,
+            .head * {
+                box-sizing: border-box;
+            }
+            
+            .layout {
+                max-width: 1100px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            
+            .head .layout {
+                padding-top: 30px;
+                padding-bottom: 30px;
+                display: flex;
+                -webkit-box-align: center;
+                align-items: center;
+                -webkit-box-pack: justify;
+                justify-content: space-between;
+            }
+            
+            .headMainPhone {
+                font-size: 28px;
+                margin-left: auto;
+                margin-right: 20px;
+            }
+            
+            .headMainPhone_color {
+                color: #004669;
+                font-weight: bold;
+            }
+            
+            .darkBlueOutlineButton {
+                position: relative;
+                outline: 0;
+                overflow: visible;
+                color: #004669;
+                text-decoration: none;
+                text-transform: uppercase;
+                background: transparent;
+                transition: all .2s ease-out;
+                box-sizing: border-box;
+                height: 44px;
+                padding: 0 30px;
+                display: inline-block;
+                margin-bottom: 0;
+                font-size: 16px;
+                line-height: 44px;
+                text-align: center;
+                vertical-align: middle;
+                cursor: pointer;
+                border: 1px solid #004669;
+                border-radius: 4px;
+            }
+            
+            .mainNav {
+                background: #e3f8ff;
+                width: 100%;
+                flex-shrink: 0;
+                margin-bottom: 20px;
+            }
+            
+            .mainNav,
+            .mainNav * {
+                box-sizing: border-box;
+            }
+            
+            .mMenu {
+                display: flex;
+                list-style-type: none;
+                justify-content: space-between;
+                min-height: 50px;
+                margin: 0 auto;
+                padding-left: 0;
+                border: 0;
+                background: #13b5ea;
+                /*По центру*/
+                align-content: center;
+                flex-wrap: wrap;
+            }
+            
+            .mMenu a {
+                color: white;
+            }
+            
+            .none_text_decoration {
+                text-decoration: none;
+            }
+            
+            .mMenu li:hover {
+                background: hsl(195, 62%, 31%);
+            }
+            
+            Li {
+                display: flex;
+                height: 50px;
+                align-content: center;
+                flex-wrap: wrap;
+            }
+            
+            .sub_menu_toogler {
+                background-color: #f16262;
+                width: auto;
+                height: 100%;
+                padding-right: 50px;
+                padding-left: 10px;
+                display: flex;
+                align-content: center;
+                flex-wrap: wrap;
+                justify-content: space-between;
+            }
+            
+            span {
+                padding-right: 10px;
+            }
+            
+            .main_content {
+                display: grid;
+                background: #e3f8ff;
+                margin: 0px;
+                height: max-content;
+                grid-row-gap: 10px;
+            }
+            
+            .main_content_picture_text {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                justify-content: center;
+            }
+            
+            .vertical_menu {
+                display: none;
+            }
+            
+            .text_main_content h1 {
+                color: #004669;
+            }
+            
+            .text_main_content p {
+                font: 17px Arial, sans-serif;
+            }
+            
+            .blueButton {
+                background: #13b5ea;
+                border: 2px solid #13b5ea;
+                margin-bottom: 20px;
+                font-size: 19px;
+                border-radius: 10px;
+            }
+            
+            .blueButton:hover {
+                background: #004669;
+            }
+            
+            .blueButton,
+            .grayButton {
+                font-weight: 400;
+                display: inline-block;
+                padding: 13px 40px;
+                text-transform: uppercase;
+                text-decoration: none;
+                line-height: 1;
+                color: #fff;
+                text-align: center;
+                -webkit-transition: all .2s ease-out;
+                transition: all .2s ease-out;
+            }
+            
+            a {
+                color: #0687b1;
+                outline: none;
+            }
+            
+            a:-webkit-any-link {
+                cursor: pointer;
+            }
+            
+            .Picture_main_content {
+                display: grid;
+                margin-right: 15px;
+                align-items: center;
+                justify-self: stretch;
+                align-self: stretch;
+            }
+            
+            .content_integration_block {
+                display: flex;
+                justify-content: space-around;
+                margin-top: 20px;
+            }
+            
+            .content_integration_block-integration_title {
+                min-height: 170px;
+                height: 80%;
+                margin-bottom: 0;
+                padding: 30px 20px;
+                box-shadow: 4px 4px 15px -5px #b6b6b6;
+            }
+            
+            .content_integration_block-integration_title:hover {
+                box-shadow: 16px 16px 60px 10px #b6b6b6;
+            }
+            /* The Modal (background) */
+            
+            .modal {
+                display: none;
+                /* Hidden by default */
+                position: fixed;
+                /* Stay in place */
+                z-index: 1;
+                /* Sit on top */
+                left: 0;
+                top: 0;
+                width: 100%;
+                /* Full width */
+                height: 100%;
+                /* Full height */
+                overflow: auto;
+                /* Enable scroll if needed */
+                background-color: rgb(0, 0, 0);
+                /* Fallback color */
+                background-color: rgba(0, 0, 0, 0.4);
+                /* Black w/ opacity */
+                padding-top: 60px;
+            }
+            /* Modal Content/Box */
+            
+            .modal-content {
+                background-color: #fefefe;
+                margin: 5% auto 15% auto;
+                /* 5% from the top, 15% from the bottom and centered */
+                border: 1px solid #888;
+                width: 80%;
+                /* Could be more or less, depending on screen size */
+            }
+            /* The Close Button (x) */
+            
+            .close {
+                position: absolute;
+                right: 25px;
+                top: 0;
+                color: #000;
+                font-size: 35px;
+                font-weight: bold;
+            }
+            
+            .close:hover,
+            .close:focus {
+                color: red;
+                cursor: pointer;
+            }

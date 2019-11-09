@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Слайдер на CSS3</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<link href="style.css" rel="stylesheet">
+<link rel="stylesheet" href="fa/css/font-awesome.min.css">
+</head>
+<body>
+    <div class="slider-container">
+
+        <input type="radio" class="slide_img" name="slide_img" id="img_1" checked>
+        <input type="radio" class="slide_img" name="slide_img" id="img_2">
+        <input type="radio" class="slide_img" name="slide_img" id="img_3">
+    
+    	<div class="slides" id="first">
+    		<img src="img/1.jpg" alt="">
+        </div>
+
+        <div class="slides" id="second">
+            <img src="img/2.jpg" alt="">
+        </div>
+
+        <div class="slides" id="third">
+            <img src="img/3.jpg" alt="">
+        </div>
+
+        <div id="arrow_next">
+            <label for="img_1"><i class="fa fa-angle-right" aria-hidden="true"></i>
+            </label>
+            <label for="img_2"><i class="fa fa-angle-right" aria-hidden="true"></i>
+            </label>
+            <label for="img_3"><i class="fa fa-angle-right" aria-hidden="true"></i>
+            </label>
+        </div>
+
+        <div id="arrow_prev">
+            <label for="img_1"><i class="fa fa-angle-left" aria-hidden="true"></i>
+            </label>
+            <label for="img_2"><i class="fa fa-angle-left" aria-hidden="true"></i>
+            </label>
+            <label for="img_3"><i class="fa fa-angle-left" aria-hidden="true"></i>
+            </label>
+        </div>
+
+        <div class="switchers">
+            <label class="switcher" id="switcher1" for="img_1"></label>
+            <label class="switcher" id="switcher2" for="img_2"></label>
+            <label class="switcher" id="switcher3" for="img_3"></label>
+        </div>
+
+    </div>
+</body>
+</html>
